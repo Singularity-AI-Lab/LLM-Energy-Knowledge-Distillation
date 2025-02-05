@@ -1,6 +1,6 @@
 # Knowledge Distillation from LLMs for Household Energy Modeling
 
-**Authors:** [Mohannad Takrouri](https://github.com/MohannadTak/), [Nicolás M. Cuadrado](https://github.com/nicosquare), and [Martin Takáč](https://github.com/martintaki)
+**Authors:** [Mohannad Takrouri](https://github.com/MohannadTak/), [Nicolás M. Cuadrado](https://nicolascuadrado.com/), and [Martin Takáč](https://mtakac.com/)
 
 **Paper:** [Knowledge Distillation from Large Language Models for Household Energy Modeling](https://arxiv.org/abs/example) 
 
