@@ -1,0 +1,5 @@
+Country,Season,index,Temperature_Min,Temperature_Max,Humidity_Min,Humidity_Max,SolRad-Diffuse_Min,SolRad-Diffuse_Max,SolRad-Direct_Min,SolRad-Direct_Max,Wind-Speed_Min,Wind-Speed_Max
+USA,Autumn,0,5,20,30,70,100,300,150,600,3,12
+USA,Spring,1,0,20,40,80,100,300,150,600,3,12
+USA,Summer,2,20,35,20,60,100,400,300,1000,3,10
+USA,Winter,3,-15,5,30,70,50,200,0,150,3,15

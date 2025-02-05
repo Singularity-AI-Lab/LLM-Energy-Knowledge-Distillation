@@ -32,7 +32,7 @@ SAVE_PLOTS = True
 # COUNTRIES = ["USA", "Brazil"]       # For testing purposes
 COUNTRIES = ["USA"]                 # For testing purposes
 
-NUMBER_FAMILIES_PER_COUNTRY = 5     # Number of families to generate per country (passed to prompts.py file)
+NUMBER_FAMILIES_PER_COUNTRY = 3     # Number of families to generate per country (passed to prompts.py file)
 
 # ---------------------------------------------------------------------------------------------------------------------------------
 LLM_MODEL = model_dict[int(LLM_MODEL_IDX)]

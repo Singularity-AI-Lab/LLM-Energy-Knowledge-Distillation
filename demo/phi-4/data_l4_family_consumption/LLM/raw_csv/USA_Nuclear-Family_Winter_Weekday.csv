@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Father_Action,Father_Consumption,Mother_Action,Mother_Consumption,Child1_Action,Child1_Consumption,Child2_Action,Child2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Nuclear Family,Winter,Weekday,0,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,1,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,2,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,3,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,4,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,5,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,6,1.0,Waking-up,0.05,Waking-up,0.05,Waking-up,0.05,Waking-up,0.05,Morning-Heating-Warming-up,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,7,1.3,Showering,0.15,Showering,0.15,Breakfast,0.1,Breakfast,0.1,Morning-Heating-Warming-up,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,8,0.9,Commuting,0.0,Preparing-breakfast,0.3,School,0.0,School,0.0,Morning-Heating-Warming-up,0.6,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,9,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,10,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,11,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,12,1.1,Lunch,0.2,Lunch,0.2,School-lunch,0.1,School-lunch,0.1,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,13,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,14,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,15,0.6,Working,0.0,Working-from-home,0.1,School,0.0,School,0.0,Daytime-Heating-Maintaining-warmth,0.5,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,16,1.0,Commuting,0.0,Preparing-lunch,0.3,School,0.0,School,0.0,Evening-Heating-Temperature-drop,0.7,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,17,2.1,Cooking,0.5,Cooking,0.5,Homework,0.2,Homework,0.2,Evening-Heating-Temperature-drop,0.7,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,18,1.9,Dinner,0.3,Dinner,0.3,Dinner,0.3,Dinner,0.3,Evening-Heating-Temperature-drop,0.7,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,19,1.6,Family-time,0.1,Family-time,0.1,Playing-video-games,0.3,Playing-video-games,0.3,Nighttime-Heating-Maintaining-warmth,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,20,1.6,Watching-TV,0.2,Watching-TV,0.2,Watching-TV,0.2,Watching-TV,0.2,Nighttime-Heating-Maintaining-warmth,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,21,1.2,Reading,0.1,Reading,0.1,Reading,0.1,Reading,0.1,Nighttime-Heating-Maintaining-warmth,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,22,1.2,Preparing-for-bed,0.1,Preparing-for-bed,0.1,Preparing-for-bed,0.1,Preparing-for-bed,0.1,Nighttime-Heating-Maintaining-warmth,0.8,No-Cooling-Needed-Nighttime,0
+USA,Nuclear Family,Winter,Weekday,23,1.08,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,1.0,No-Cooling-Needed-Nighttime,0

@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Mother_Action,Mother_Consumption,Stepfather_Action,Stepfather_Consumption,Child1_Action,Child1_Consumption,Stepchild1_Action,Stepchild1_Consumption,Stepchild2_Action,Stepchild2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Blended Family,Autumn,Weekday,0,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,1,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,2,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,3,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,4,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,5,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,6,0.8,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,7,1.8,Breakfast,0.3,Breakfast,0.3,Breakfast,0.3,Breakfast,0.3,Breakfast,0.3,Morning-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,8,0.0,Commuting,0.0,Commuting,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,9,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,10,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,11,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,12,1.0,Lunch,0.2,Lunch,0.2,Lunch,0.2,Lunch,0.2,Lunch,0.2,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,13,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,14,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,15,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,16,0.0,Working,0.0,Working,0.0,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,17,1.5,Commuting,0.0,Commuting,0.0,Homework,0.4,Homework,0.4,Homework,0.4,Evening-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,18,1.9,Cooking-Dinner,0.5,Cooking-Dinner,0.5,Family-Time,0.2,Family-Time,0.2,Family-Time,0.2,Evening-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,19,1.6,Family-Time,0.2,Family-Time,0.2,TV-Watching,0.3,TV-Watching,0.3,TV-Watching,0.3,Evening-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,20,1.2,TV-Watching,0.3,TV-Watching,0.3,Preparing-for-Bed,0.1,Preparing-for-Bed,0.1,Preparing-for-Bed,0.1,Evening-Heating,0.3,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,21,0.66,Preparing-for-Bed,0.1,Preparing-for-Bed,0.1,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,22,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
+USA,Blended Family,Autumn,Weekday,23,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating,0.4,No-Cooling-Needed,0
