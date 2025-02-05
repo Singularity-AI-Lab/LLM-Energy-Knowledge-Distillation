@@ -210,5 +210,10 @@ WEATHER_NOISE_FACTOR = 2
 FAMILY_NOISE_FACTOR = 2
 # ---------------------------------------------------------------------------------------------------------------------------------
 # Constants for file 05_generate_synthetic_data.ipynb
-SEASON_COLORS = {'Spring': 'green', 'Summer': 'orange', 'Autumn': 'brown', 'Winter': 'blue'}
-SEASON_COLORS_SAME = {'Spring': 'orange', 'Summer': 'orange', 'Autumn': 'orange', 'Winter': 'orange'}
+
+AGGREGATE_BY = 'daily'   # None, 'daily', 'weekly', 'monthly', 'seasonal'. If None, the data will not be aggregated (stays hourly).
+
+if AGGREGATE_BY not in ['weekly', 'monthly']:
+    SEASON_COLORS = {'Spring': 'green', 'Summer': 'orange', 'Autumn': 'brown', 'Winter': 'blue'}
+else:
+    SEASON_COLORS = None
