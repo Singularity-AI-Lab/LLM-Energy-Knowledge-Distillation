@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Mother_Action,Mother_Consumption,Stepfather_Action,Stepfather_Consumption,Child1_Action,Child1_Consumption,Stepchild1_Action,Stepchild1_Consumption,Stepchild2_Action,Stepchild2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Blended Family,Summer,Weekday,0,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,1,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,2,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,3,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,4,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,5,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,6,0.5,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.4
+USA,Blended Family,Summer,Weekday,7,1.2,Preparing-breakfast,0.3,Preparing-breakfast,0.3,Preparing-breakfast,0.0,Preparing-breakfast,0.0,Preparing-breakfast,0.0,No-Heating-Needed,0,Morning-Cooling,0.6
+USA,Blended Family,Summer,Weekday,8,1.3,Breakfast,0.2,Breakfast,0.2,Breakfast,0.1,Breakfast,0.1,Breakfast,0.1,No-Heating-Needed,0,Morning-Cooling,0.6
+USA,Blended Family,Summer,Weekday,9,1.8,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,0.8
+USA,Blended Family,Summer,Weekday,10,1.8,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,0.8
+USA,Blended Family,Summer,Weekday,11,1.8,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,0.8
+USA,Blended Family,Summer,Weekday,12,1.4,Lunch,0.2,Lunch,0.2,Lunch,0.0,Lunch,0.0,Lunch,0.0,No-Heating-Needed,0,Daytime-Cooling,1.0
+USA,Blended Family,Summer,Weekday,13,2.0,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,1.0
+USA,Blended Family,Summer,Weekday,14,2.0,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,1.0
+USA,Blended Family,Summer,Weekday,15,2.0,Working-from-home,0.5,Working-from-home,0.5,School,0.0,School,0.0,School,0.0,No-Heating-Needed,0,Daytime-Cooling,1.0
+USA,Blended Family,Summer,Weekday,16,2.6,Preparing-dinner,0.4,Preparing-dinner,0.4,Homework,0.3,Homework,0.3,Homework,0.3,No-Heating-Needed,0,Afternoon-Cooling,0.9
+USA,Blended Family,Summer,Weekday,17,1.8,Dinner,0.3,Dinner,0.3,Dinner,0.1,Dinner,0.1,Dinner,0.1,No-Heating-Needed,0,Afternoon-Cooling,0.9
+USA,Blended Family,Summer,Weekday,18,1.3,Family-time-TV,0.3,Family-time-TV,0.3,Playing-outside,0.0,Playing-outside,0.0,Playing-outside,0.0,No-Heating-Needed,0,Evening-Cooling,0.7
+USA,Blended Family,Summer,Weekday,19,1.6,Family-time-TV,0.3,Family-time-TV,0.3,Family-time-TV,0.1,Family-time-TV,0.1,Family-time-TV,0.1,No-Heating-Needed,0,Evening-Cooling,0.7
+USA,Blended Family,Summer,Weekday,20,1.2,Preparing-bedtime,0.2,Preparing-bedtime,0.2,Preparing-bedtime,0.1,Preparing-bedtime,0.1,Preparing-bedtime,0.1,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Blended Family,Summer,Weekday,21,0.6,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Blended Family,Summer,Weekday,22,0.6,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Blended Family,Summer,Weekday,23,0.6,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5

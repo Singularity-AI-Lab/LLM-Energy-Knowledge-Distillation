@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Single-Mother_Action,Single-Mother_Consumption,Child1_Action,Child1_Consumption,Child2_Action,Child2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Single-Parent Family,Spring,Weekday,0,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,1,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,2,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,3,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,4,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,5,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,6,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Morning-Heating-Preparation,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,7,1.0,Preparing-Breakfast,0.5,Eating-Breakfast,0.1,Eating-Breakfast,0.1,Morning-Heating-Preparation,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,8,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,9,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,10,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,11,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,12,0.4,Lunch,0.2,Lunch,0.1,Lunch,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,13,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,14,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,15,0.3,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,No-Cooling-Needed,0.0
+USA,Single-Parent Family,Spring,Weekday,16,0.7,Working-From-Home,0.3,School,0.0,School,0.0,No-Heating-Needed,0.0,Afternoon-Cooling-Heat,0.4
+USA,Single-Parent Family,Spring,Weekday,17,1.7,Preparing-Dinner,0.4,Playing-Video-Games,0.3,Playing-Video-Games,0.3,Evening-Heating-Temperature-drop,0.3,Afternoon-Cooling-Heat,0.4
+USA,Single-Parent Family,Spring,Weekday,18,1.2,Dinner,0.3,Dinner,0.1,Dinner,0.1,Evening-Heating-Temperature-drop,0.3,Afternoon-Cooling-Heat,0.4
+USA,Single-Parent Family,Spring,Weekday,19,1.2,Helping-Child1-with-Homework,0.1,Homework,0.2,Homework,0.2,Evening-Heating-Temperature-drop,0.3,Afternoon-Cooling-Heat,0.4
+USA,Single-Parent Family,Spring,Weekday,20,1.0,Helping-Child2-with-Homework,0.1,Watching-TV,0.2,Watching-TV,0.2,Evening-Heating-Temperature-drop,0.3,Evening-Cooling-Drop,0.2
+USA,Single-Parent Family,Spring,Weekday,21,0.54,Watching-TV,0.2,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Stabilizing,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,22,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Stabilizing,0.3,No-Cooling-Needed-Nighttime,0.0
+USA,Single-Parent Family,Spring,Weekday,23,0.36,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Stabilizing,0.3,No-Cooling-Needed-Nighttime,0.0

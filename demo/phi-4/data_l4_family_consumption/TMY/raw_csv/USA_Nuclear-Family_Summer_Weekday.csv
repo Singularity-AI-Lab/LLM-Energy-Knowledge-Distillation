@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Father_Action,Father_Consumption,Mother_Action,Mother_Consumption,Child1_Action,Child1_Consumption,Child2_Action,Child2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Nuclear Family,Summer,Weekday,0,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,1,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,2,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,3,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,4,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,5,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,6,0.8,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Preparation,0.1,Morning-Preparation,0.1,No-Heating-Needed,0,Morning-Cooling,0.4
+USA,Nuclear Family,Summer,Weekday,7,0.9,Commuting-to-Work,0.0,Preparing-Breakfast,0.3,Eating-Breakfast,0.1,Eating-Breakfast,0.1,No-Heating-Needed,0,Morning-Cooling,0.4
+USA,Nuclear Family,Summer,Weekday,8,0.6,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Morning-Cooling,0.4
+USA,Nuclear Family,Summer,Weekday,9,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,10,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,11,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,12,1.2,Lunch,0.2,Lunch,0.2,Lunch,0.1,Lunch,0.1,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,13,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,14,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,15,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,16,0.8,Working,0.0,Working-from-Home,0.2,School,0.0,School,0.0,No-Heating-Needed,0,Afternoon-Cooling,0.6
+USA,Nuclear Family,Summer,Weekday,17,1.2,Commuting-from-Work,0.0,Preparing-Dinner,0.3,After-School-Activity,0.2,After-School-Activity,0.2,No-Heating-Needed,0,Evening-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,18,1.5,Evening-Relaxation,0.3,Dinner,0.3,Evening-Relaxation,0.2,Evening-Relaxation,0.2,No-Heating-Needed,0,Evening-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,19,1.2,Dinner,0.3,Evening-TV,0.2,Dinner,0.1,Dinner,0.1,No-Heating-Needed,0,Evening-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,20,1.4,Watching-TV,0.2,Helping-Child1-with-Homework,0.1,Homework,0.3,Playing-Video-Games,0.3,No-Heating-Needed,0,Evening-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,21,1.1,Reading,0.1,Reading,0.1,Watching-TV,0.2,Watching-TV,0.2,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,22,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5
+USA,Nuclear Family,Summer,Weekday,23,0.58,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,No-Heating-Needed,0,Nighttime-Cooling,0.5

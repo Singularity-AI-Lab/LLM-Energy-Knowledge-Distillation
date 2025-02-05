@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Mother_Action,Mother_Consumption,Stepfather_Action,Stepfather_Consumption,Child1_Action,Child1_Consumption,Stepchild1_Action,Stepchild1_Consumption,Stepchild2_Action,Stepchild2_Consumption,Heating_Action,Heating_Consumption,Cooling_Action,Cooling_Consumption
+USA,Blended Family,Spring,Weekend,0,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,1,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,2,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,3,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,4,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,5,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,6,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Morning-Heating-Warming-up,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,7,1.4,Morning-Routine,0.3,Morning-Exercise,0.2,Morning-Routine,0.2,Morning-Routine,0.2,Morning-Routine,0.2,Morning-Heating-Warming-up,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,8,1.7,Breakfast,0.4,Breakfast,0.4,Breakfast,0.3,Breakfast,0.3,Breakfast,0.3,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,9,0.9,Gardening,0.1,Working-From-Home,0.5,Playing-Outdoors,0.1,Playing-Outdoors,0.1,Playing-Outdoors,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,10,0.85,Reading,0.05,Working-From-Home,0.5,Playing-Outdoors,0.1,Playing-Outdoors,0.1,Playing-Outdoors,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,11,1.3,Laundry,0.5,Working-From-Home,0.5,Playing-Outdoors,0.1,Playing-Outdoors,0.1,Playing-Outdoors,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,12,1.2,Lunch,0.3,Lunch,0.3,Lunch,0.2,Lunch,0.2,Lunch,0.2,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,13,0.58,Nap,0.02,Working-From-Home,0.5,Nap,0.02,Nap,0.02,Nap,0.02,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,14,1.3,Watching-TV,0.2,Working-From-Home,0.5,Watching-TV,0.2,Watching-TV,0.2,Watching-TV,0.2,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,15,1.2,Cooking,0.4,Working-From-Home,0.5,Playing-Outdoors,0.1,Playing-Outdoors,0.1,Playing-Outdoors,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,16,0.5,Family-Time,0.1,Family-Time,0.1,Family-Time,0.1,Family-Time,0.1,Family-Time,0.1,No-Heating-Needed,0.0,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,17,1.5,Dinner,0.3,Dinner,0.3,Dinner,0.2,Dinner,0.2,Dinner,0.2,Evening-Heating-Temperature-drop,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,18,0.9,Family-Game,0.1,Watching-TV,0.2,Family-Game,0.1,Family-Game,0.1,Family-Game,0.1,Evening-Heating-Temperature-drop,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,19,1.55,Cleaning,0.3,Reading,0.05,Homework,0.3,Homework,0.3,Homework,0.3,Evening-Heating-Temperature-drop,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,20,0.8,Relaxing,0.1,Relaxing,0.1,Relaxing,0.1,Relaxing,0.1,Relaxing,0.1,Evening-Heating-Temperature-drop,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,21,0.8,Preparing-Bed,0.1,Preparing-Bed,0.1,Preparing-Bed,0.1,Preparing-Bed,0.1,Preparing-Bed,0.1,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,22,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0
+USA,Blended Family,Spring,Weekend,23,0.4,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Nighttime-Heating-Maintaining-warmth,0.3,No-Cooling-Needed,0

@@ -1,0 +1,25 @@
+Country,Family_Type,Season,Pattern,Hour,Total_Electricity_Usage,Single-Mother_Action,Single-Mother_Consumption,Child1_Action,Child1_Consumption,Child2_Action,Child2_Consumption,Cooling_Action,Cooling_Consumption,Heating_Action,Heating_Consumption
+USA,Single-Parent Family,Summer,Weekend,0,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,1,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,2,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,3,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,4,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,5,0.56,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.5,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,6,0.9,Morning-Prep,0.1,Morning-Prep,0.05,Morning-Prep,0.05,Cooling-Morning,0.7,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,7,1.2,Breakfast,0.3,Breakfast,0.1,Breakfast,0.1,Cooling-Morning,0.7,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,8,1.3,Cleaning,0.2,Playing-Indoors,0.2,Playing-Indoors,0.2,Cooling-Morning,0.7,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,9,1.2,Child1-Supervision,0.1,Playing-Indoors,0.2,Playing-Indoors,0.2,Cooling-Morning,0.7,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,10,1.2,Child2-Supervision,0.1,Playing-Indoors,0.2,Playing-Indoors,0.2,Cooling-Morning,0.7,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,11,2.1,Laundry,0.5,Outdoor-Play,0.3,Outdoor-Play,0.3,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,12,1.5,Lunch,0.3,Lunch,0.1,Lunch,0.1,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,13,1.7,Child1-Playtime,0.1,Outdoor-Play,0.3,Outdoor-Play,0.3,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,14,1.7,Child2-Playtime,0.1,Outdoor-Play,0.3,Outdoor-Play,0.3,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,15,1.8,Cooking,0.4,Playing-Indoors,0.2,Playing-Indoors,0.2,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,16,1.7,Child1-Playtime,0.1,Outdoor-Play,0.3,Outdoor-Play,0.3,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,17,1.7,Child2-Playtime,0.1,Outdoor-Play,0.3,Outdoor-Play,0.3,Cooling-Afternoon,1.0,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,18,1.3,Dinner,0.3,Dinner,0.1,Dinner,0.1,Cooling-Evening,0.8,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,19,1.4,TV-Watching,0.2,TV-Watching,0.2,TV-Watching,0.2,Cooling-Evening,0.8,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,20,1.1,Child1-Storytime,0.1,Storytime,0.1,Storytime,0.1,Cooling-Evening,0.8,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,21,0.8,Child2-Storytime,0.1,Preparing-Bed,0.05,Preparing-Bed,0.05,Cooling-Night,0.6,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,22,0.74,Preparing-Bed,0.1,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.6,No-Heating,0
+USA,Single-Parent Family,Summer,Weekend,23,0.66,Sleeping,0.02,Sleeping,0.02,Sleeping,0.02,Cooling-Night,0.6,No-Heating,0
