@@ -2,7 +2,7 @@
 
 **Authors:** [Mohannad Takrouri](https://github.com/MohannadTak/), [Nicolás M. Cuadrado](https://nicolascuadrado.com/), and [Martin Takáč](https://mtakac.com/)
 
-**Paper:** [Knowledge Distillation from Large Language Models for Household Energy Modeling](https://arxiv.org/abs/example) 
+**Paper:** [Knowledge Distillation from Large Language Models for Household Energy Modeling](https://arxiv.org/abs/2502.03034) 
 
 This repository contains a structured pipeline for generating and analyzing weather data, energy consumption patterns, and family structures using multiple Large Language Models (LLMs). The process involves multiple levels of data generation and processing, from obtaining family structures to simulating their energy consumption profiles across different seasons and weekdays/weekends.
 
