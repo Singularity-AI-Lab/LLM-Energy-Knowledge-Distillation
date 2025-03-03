@@ -25,7 +25,7 @@ model_dict = {
 FOLDER_PATH = "demo"
 LLM_MODEL_IDX = 2
 LLM_GENERATION = True   # For 4 stages, given the USE_TMY is False. If USE_TMY is True, this will generate Stage 1 and 4 only.
-USE_TMY = False         # When set to True, the TMY data will be used for the weather data skipping Stage 2 and 3.
+USE_TMY = True         # When set to True, the TMY data will be used for the weather data skipping Stage 2 and 3.
 SAVE_PLOTS = True
 
 # COUNTRIES = ["USA", "Japan", "India", "Sweden", "United Arab Emirates", "Brazil"]
