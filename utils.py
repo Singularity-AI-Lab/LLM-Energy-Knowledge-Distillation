@@ -187,7 +187,7 @@ def log_parser(file_path, output_dir, metadata_type):
             else:
                 raise ValueError(f"Unknown metadata type: {metadata_type}")
 
-            print(f"Processing metadata: {metadata}")
+            # print(f"Processing metadata: {metadata}")
 
             # Process assistant line
             assistant_line = assistant_line.replace("\n", "").strip()
@@ -227,6 +227,25 @@ def log_parser(file_path, output_dir, metadata_type):
             if not parameter_data:
                 raise ValueError("No valid parameter data found in the message.")
 
+            if metadata_type == "family_consumption":
+                # Dictionary to track occurrences of each member
+                member_count = {}
+
+                updated_parameter_data = []
+                
+                for parameter, raw_data in parameter_data:
+                    if parameter in member_count:
+                        member_count[parameter] += 1
+                        new_parameter = f"{parameter}_{member_count[parameter]:02d}"  # Append _01, _02, etc.
+                    else:
+                        member_count[parameter] = 0  # First occurrence keeps original name
+                        new_parameter = parameter  # Keep first occurrence unchanged
+                    
+                    updated_parameter_data.append((new_parameter, raw_data))
+
+                # Use updated parameter data with unique names
+                parameter_data = updated_parameter_data
+                
             # Parse the data for each parameter
             parsed_data = []
             for parameter, raw_data in parameter_data:
@@ -259,6 +278,8 @@ def log_parser(file_path, output_dir, metadata_type):
                 
                 if metadata_type == "family_consumption":
                     scenario_df = pd.concat(parsed_data, axis=1)
+                    scenario_df.rename(columns=lambda x: x.replace("'s", "").replace("-s ", " ").replace("-s-", "-"), inplace=True)
+
                     scenario_df["Country"] = metadata["Country"]
                     scenario_df["Season"] = metadata["Season"]
                     scenario_df["Family_Type"] = metadata["Family Type"]
@@ -285,6 +306,11 @@ def log_parser(file_path, output_dir, metadata_type):
                 scenario_df = scenario_df.reset_index()
 
                 data_columns = [col for col in scenario_df.columns if col not in metadata_columns]
+
+                # print(f"Data columns: {data_columns}")
+                data_columns = [k.replace("'s", "").replace("-s ", " ").replace("-s-", "-") for k in data_columns]
+                # print(f"Data columns: {data_columns}")
+
                 scenario_df = scenario_df[metadata_columns + data_columns]
 
                 # Generate a unique filename based on metadata

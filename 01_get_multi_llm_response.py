@@ -169,7 +169,7 @@ print(110*"=")
 print("Level 1: Family types for different countries")
 print(110*"=")
 
-if LLM_GENERATION:
+if LLM_GENERATION and not USE_TMY:
     system_prompt = system_prompt_l1
 
     for country in COUNTRIES:
@@ -347,7 +347,7 @@ if LLM_GENERATION:
     guide_prompt = ""
 
     # Get list of json files in folder
-    family_json_files = [f for f in os.listdir(l1_output_dir) if f.endswith(".json")]
+    family_json_files = [f for f in os.listdir(l1_output_dir) if f.endswith(".json") and not f.startswith("selected_")]
 
     print(family_json_files)
 
@@ -399,7 +399,7 @@ if LLM_GENERATION:
                             # break   # 1 Day Pattern
                         # break       # 1 Season
                     # break           # 1 Family
-            break                   # 1 Country
+            # break                   # 1 Country
 
     time_now = pd.Timestamp.now().strftime("%Y-%m-%d_T%H-%M-%S")
     logger(f"[{time_now}]")
